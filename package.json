@@ -1,0 +1,25 @@
+{
+  "name": "npm-literal-joiner",
+  "version": "1.0.0",
+  "description": "simple code to join literal json object as array",
+  "main": "/libs/index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/junhui/npm-literal-joiner.git"
+  },
+  "keywords": [
+    "literal",
+    "json",
+    "object",
+    "join"
+  ],
+  "author": "junhuih",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^6.0.3"
+  }
+}
