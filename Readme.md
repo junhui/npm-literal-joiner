@@ -2,7 +2,7 @@
 
 ### installation ###
 
-```
+```js
 npm install npm-literal-joiner
 
 var lj = require('npm-literal-joiner');
@@ -16,7 +16,7 @@ var yourObj = {'a':'b','c':'d'};
 
 ### example ###
 
-```
+```js
 var lj = require('npm-literal-joiner');
 
 describe('only string elements', function(){
