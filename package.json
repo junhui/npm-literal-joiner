@@ -1,6 +1,6 @@
 {
   "name": "npm-literal-joiner",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "simple code to join literal json object as array",
   "main": "./libs/index.js",
   "scripts": {
