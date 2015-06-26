@@ -1,6 +1,6 @@
 {
   "name": "npm-literal-joiner",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "simple code to join literal json object as array",
   "main": "./libs/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "https://github.com/junhui/npm-literal-joiner.git"
   },
   "bin": {
-    "lj"    : "./bin/lj"
+    "lj": "./bin/lj"
   },
   "keywords": [
     "literal",
